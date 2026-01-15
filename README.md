@@ -272,11 +272,11 @@ Assets/Scenes/MainSimulation.unity
 
 | Campo | Detalles |
 |-------|----------|
-| **Institución** | [Tu Universidad] |
-| **Curso** | Física Electromagnética / Programación Científica |
-| **Semestre** | [Año/Semestre] |
+| **Institución** | UPTA |
+| **Curso** | ING - Electronica Mencion Telecomunicaciones |
+| **Semestre** | [3er-Año|
 | **Autor** | Miventech (Jose Jaspe) |
-| **Profesor/Tutor** | [Nombre si aplica] |
+| **Profesor/Tutor** | Andres Castillo |
 
 ### 🎯 Objetivos de Aprendizaje Cubiertos
 
