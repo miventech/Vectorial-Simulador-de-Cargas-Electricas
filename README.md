@@ -7,9 +7,10 @@
 
 </div>
 
-# ⚡ Vectorial - Simulador de Cargas Eléctricas
 
 <div align="center">
+
+# Vectorial - Simulador de Cargas Eléctricas
 
 **An interactive 3D physics simulator for visualizing electric charges and electromagnetic fields**
 
